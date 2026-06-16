@@ -59,13 +59,7 @@ while True:
 
             x_coords = []
             y_coords = []
-echo "# asl-translator" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Sign-language-Interpretation-System/asl-translator.git
-git push -u origin main
+
             x_coords = []
             y_coords = []
 
